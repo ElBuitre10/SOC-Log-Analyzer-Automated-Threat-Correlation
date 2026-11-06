@@ -1,4 +1,4 @@
-# 🐍 TelcoAudit-Endurecedor | SOC Log Analyzer & Automated Threat Correlation
+# 🐍 SOC Log Analyzer & Automated Threat Correlation
 
 ## 📝 Descripción del Proyecto
 Este repositorio contiene un desarrollo avanzado de automatización defensiva (**SecOps**) diseñado para optimizar las operaciones en un Centro de Operaciones de Seguridad (SOC) de nivel 1. El núcleo del proyecto es un script robusto en **Python** enfocado en el análisis, filtrado y correlación analítica de registros lógicos (*logs*) del sistema.
